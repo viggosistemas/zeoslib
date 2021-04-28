@@ -1,0 +1,9 @@
+{
+	"name": "Zeoslib",
+	"description": "",
+	"version": "7.2.6",
+	"homepage": "",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
